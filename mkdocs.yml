@@ -1,7 +1,8 @@
 site_name: Портал документации
 site_description: Полная документация по проекту "Учёт успеваемости студентов"
 site_author: Ivan Davydoff
-site_url: https://nominante1.github.io/docs-portal
+site_url: https://nominante1.github.io/docs_portal/
+use_directory_urls: true
 
 # Тема оформления
 theme:
